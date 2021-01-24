@@ -1,0 +1,45 @@
+
+	h1{
+	color: red;
+	font-family: consolas;
+	}
+	p1{
+	color: 	#2fa39f;
+	font-size: 39px;
+	font-family: cursive;
+	}
+	p2{
+	color: #3fa41f;
+	font-size: 38px;
+	font-family: cursive;
+	}
+	body{
+	background-color: powderblue;
+	}
+	p3{
+		color: #22e07b;
+		font-size: 38px;
+		font-family: cursive;
+	}
+	p4{
+		color: gray;
+		font-size: 20px;
+		font-family: cursive;
+	}
+	p5{
+		color: green;
+		font-size: 20px;
+		font-family: cursive;
+	}
+	p6{
+		color: #38b6d9;
+		font-size: 37px;
+		font-family: cursive;
+	}
+	p1{
+		border-radius:2em;
+border-top-left-radius:2em;
+border-top-right-radius:2em;
+border-bottom-right-radius:2em	
+	}
+		

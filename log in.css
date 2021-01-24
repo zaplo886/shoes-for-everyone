@@ -1,0 +1,23 @@
+
+  h1{
+   color: #bd7100;
+   font-size:35px;
+   font-family: castellar;
+   border: ridge 10px green;
+   }
+   p1{
+	   font-family: cursive;
+	   font-size: 26px; 
+	   color: gray;
+   }
+   p2{
+	   font-size: 26px; 
+	   color: green;
+	   font-family: cursive;
+   }
+   body{
+	   background-color: blue;
+	   font-family: fonte;
+	   border-width: 100000px;
+	   border: outset 45px red; 
+   }
