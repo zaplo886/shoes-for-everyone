@@ -37,9 +37,7 @@
 		font-family: cursive;
 	}
 	p1{
-		border-radius:2em;
-border-top-left-radius:2em;
-border-top-right-radius:2em;
-border-bottom-right-radius:2em	
+	 border-radius: 50px;
+	border: 100px;
 	}
 		
