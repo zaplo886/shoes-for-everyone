@@ -30,27 +30,21 @@
 		color: green;
 		font-size: 20px;
 		font-family: cursive;
-}
 	}
 	p6{
 		color: #38b6d9;
 		font-size: 37px;
 		font-family: cursive;
 	}
-	p1{
-	 border-radius: 50;
-	border: 100px;
-	}
-		.nik{
-		border-radius: 0 21 0 21;
-		transform: rotate(85deg);
+	.nik{
+		border-radius: 50px;
+                transform: rotate(85deg);      
 	}
 	.ske{
-		border-radius: 20 0 20 0;
-		transform: rotate(76deg);
+		border-radius: 48px;
+                transform: rotate(84deg);
 	}
 	.com{
-		border-radius: 21 0 22 0;
-		transform: rotate(74deg);
-}
-}
+		border-radius: 47px;
+                transform: rotate(85deg);
+	}
