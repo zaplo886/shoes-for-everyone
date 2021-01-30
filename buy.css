@@ -43,16 +43,14 @@
 	}
 		.nik{
 		border-radius: 0 21 0 21;
-		margin: 100 0 100 0;
-		padding: 0 100 50 0;
+		transform: rotate(85deg);
 	}
 	.ske{
-		border-radius: 0 21 0 21;
-		margin: 100 0 100 0;
-		padding: 0 100 50 0;
+		border-radius: 20 0 20 0;
+		transform: rotate(76deg);
 	}
 	.com{
-		border-radius: 0 21 0 21;
-		margin: 100 0 100 0;
-		padding: 0 100 50 0;
+		border-radius: 21 0 22 0;
+		transform: rotate(74deg);
+}
 }
