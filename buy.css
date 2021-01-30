@@ -1,7 +1,4 @@
-.img{
-	padding: 0 20 0 20;
-	margin : 20 0 20 0;
-}
+
 	h1{
 	color: red;
 	font-family: consolas;
@@ -33,6 +30,7 @@
 		color: green;
 		font-size: 20px;
 		font-family: cursive;
+}
 	}
 	p6{
 		color: #38b6d9;
@@ -43,4 +41,11 @@
 	 border-radius: 50px;
 	border: 100px;
 	}
-		
+		.nik{
+		border-radius: 50px;
+	}
+	.ske{
+		border-radius: 48px;
+	}
+	.com{
+		border-radius: 47px;	
