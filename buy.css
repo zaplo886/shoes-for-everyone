@@ -38,13 +38,13 @@
 	}
 	.nik{
 		border-radius: 50px;
-                transform: rotate(85deg);      
+                transform: rotate(35);      
 	}
 	.ske{
 		border-radius: 48px;
-                transform: rotate(84deg);
+                transform: rotate(35deg);
 	}
 	.com{
 		border-radius: 47px;
-                transform: rotate(85deg);
+                transform: rotate(35deg);
 	}
