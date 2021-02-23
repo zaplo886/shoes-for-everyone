@@ -35,7 +35,7 @@
 		color: #38b6d9;
 		font-size: 37px;
 		font-family: cursive;
-	}
+           }
 	.nik{
 		border-radius: 50px;
                 transform: rotate(15deg);				
@@ -49,5 +49,5 @@
 	}
         .kid{
 		border-radius: 47px;
-		filter: blur(10px)
+		filter: blur(10px);
 		}
