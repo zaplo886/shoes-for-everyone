@@ -47,3 +47,7 @@
 		border-radius: 47px;
                 transform: rotate(15deg);
 	}
+        .kid{
+		border-radius: 47px;
+		filter: blur(10px)
+		}
